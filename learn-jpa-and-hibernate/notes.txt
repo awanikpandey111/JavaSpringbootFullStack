@@ -1,0 +1,5 @@
+select * from course
+
+insert into course  values (2,'Learn AWS','in28Min')
+
+delete from course where id in (1,2)
